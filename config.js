@@ -9,10 +9,10 @@ const CONFIG = {
     btnYes: 'CHẤP NHẬN NÈ (BẤT KÌ ĐIỀU CHI)',
     btnNo: 'Không, ĐỂ SUY NGHĨ XÍU NHO  ',
     question:'TRÊN TRỜI CÓ VẠN VÌ SAO CHÚC NGA NĂM MỚI DUI DẼ NÈ ,XINH ĐẸP CUTE HƯN NÈ ',
-    btnReply: 'chúc Tha lại i',
-    reply: 'chúc tha năm mới dui nhó ',
-    mess: 'nga cũng vậy à',
-    messDesc: 'lên Sài Gòn nhớ lì xì Tha nha ,hehe',
+    btnReply: 'nhấp dô tiếp i',
+    
+    mess: 'à năm mới toàn điểm nga nhoa nhoa',
+    messDesc: 'Tha chúc nhiều dị gòy lên Sài Gòn nhớ lì xì Tha nha ,hehe',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/sitha.knt1608' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
