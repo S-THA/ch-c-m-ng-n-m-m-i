@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'NGA À!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ Xinh đẹp như dị !!!
+    Mà sao Nga cứ Xinh đẹp như dị !!!
     CHÚC MỪNG NĂM MỚI`,
     btnIntro: 'NHẤN DÔ NÈ HIHI',
     title: ' NGA ĐẾN TỪ CUNG CHĂNG ĐÚNG HEM 😙',
