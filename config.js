@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'NGA À!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    Mà sao em cứ Xinh đẹp như dị !!!
+    CHÚC MỪNG NĂM MỚI`,
+    btnIntro: 'NHẤN DÔ NÈ HIHI',
+    title: ' NGA ĐẾN TỪ CUNG CHĂNG ĐÚNG HEM 😙',
+    desc: 'NGA ĐỂ CHO THA ƯỚC MỘT ĐIỀU ƯỚC ĐƯỢC KHÔNG 😘😘 ',
+    btnYes: 'CHẤP NHẬN NÈ (BẤT KÌ ĐIỀU CHI)',
+    btnNo: 'Không, ĐỂ SUY NGHĨ XÍU NHO  ',
+    question:'TRÊN TRỜI CÓ VẠN VÌ SAO CHÚC NGA NĂM MỚI DUI DẼ NÈ ,XINH ĐẸP CUTE HƯN NÈ ',
+    btnReply: 'chúc Tha lại i',
+    reply: 'chúc tha năm mới dui nhó ',
+    mess: 'nga cũng vậy à',
+    messDesc: 'lên Sài Gòn nhớ lì xì Tha nha ,hehe',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/sitha.knt1608' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
