@@ -120,8 +120,8 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
                 background: '#fff url("img/iput-bg.jpg")',
-                title: CONFIG.tha,
-                text: CONFIG.nga,
+                title: tha,
+                text: nga,
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = CONFIG.Link;
