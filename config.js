@@ -11,7 +11,7 @@ const CONFIG = {
     question:'TRÊN TRỜI CÓ VẠN VÌ SAO CHÚC NGA NĂM MỚI DUI DẼ NÈ ,XINH ĐẸP CUTE HƯN NÈ ',
     btnReply: 'nhấp dô tiếp i',
     
-    mess: 'à năm mới toàn điểm nga nhoa nhoa',
+    mess: 'à năm mới toàn điểm A nhoa nhoa',
     messDesc: 'Tha chúc nhiều dị gòy lên Sài Gòn nhớ lì xì Tha nha ,hehe',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/sitha.knt1608' //link mess của các bạn. VD: https://m.me/nam.nodemy
