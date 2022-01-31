@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'à năm mới toàn điểm A nhoa nhoa',
     messDesc: 'Tha chúc nhiều dị gòy lên Sài Gòn nhớ lì xì Tha nha ,hehe',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://s-tha.github.io/Love/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Link: 'https://s-tha.github.io/Love/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
