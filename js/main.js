@@ -124,7 +124,7 @@ $('#yes').click(function() {
                 text: CONFIG.nga,
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = CONFIG.thaLink;
+                    window.location = CONFIG.Link;
                   }
             })
         }
