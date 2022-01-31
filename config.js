@@ -11,8 +11,8 @@ const CONFIG = {
     question:'TRÊN TRỜI CÓ VẠN VÌ SAO CHÚC NGA NĂM MỚI DUI DẼ NÈ ,XINH ĐẸP CUTE HƯN NÈ ',
     btnReply: 'nhấp dô tiếp i',
     
-     'à năm mới toàn điểm A nhoa nhoa',
-    Desc: 'Tha chúc nhiều dị gòy lên Sài Gòn nhớ lì xì Tha nha ,hehe',
+     t:'à năm mới toàn điểm A nhoa nhoa',
+    n: 'Tha chúc nhiều dị gòy lên Sài Gòn nhớ lì xì Tha nha ,hehe',
     btnAccept: 'Okiiiii lun <3',
     Link: 'https://s-tha.github.io/Love/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
